@@ -1,5 +1,15 @@
 # wardley-omnigraffle
-Wardley Mapping stencils for Omnigraffle software. See [Wardley Maps](https://medium.com/wardleymaps) for details on Wardley Mapping.
+Wardley Mapping stencils for OmniGraffle software. See [Wardley Maps](https://medium.com/wardleymaps) for details on Wardley Mapping.
+
+
+## Install
+
+1. Download [Wardley Maps.gstencil](https://github.com/harrylove/wardley-omnigraffle/blob/master/Wardley%20Maps.gstencil?raw=true)
+1. Open the file with OmniGraffle
+1. Select "Move and Edit" to move the file to your Stencils folder
+1. Close the Wardley Maps stencil file
+1. Open a new or existing OmniGraffle file in which to use the stencils
+1. Open the Stencils window/sidebar; "Wardley Maps" should be listed under Miscellaneous.
 
 
 ## Example diagram
