@@ -2,6 +2,11 @@
 Wardley Mapping stencils for Omnigraffle software. See [Wardley Maps](https://medium.com/wardleymaps) for details on Wardley Mapping.
 
 
+## Example diagram
+
+![A sample Wardley map showing a value chain for risk management](./Wardley-Map-CFO-risk.png?raw=true "Wardley Map CFO risk management example")
+
+
 ## Copyright
 
 Copyright 2019 Harry Love.
