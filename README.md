@@ -1,5 +1,23 @@
 # wardley-omnigraffle
-Wardley Mapping stencils for OmniGraffle software. See [Wardley Maps](https://medium.com/wardleymaps) for details on Wardley Mapping.
+Wardley Mapping stencil for [OmniGraffle](https://www.omnigroup.com/omnigraffle) software. See [Wardley Maps](https://medium.com/wardleymaps) for details on Wardley Mapping.
+
+Includes shapes for:
+- Standard map canvas with value chain and evolution axis
+- Map canvas with alternate evolution axis labels: Concept, Emerging, Convergent, Accepted
+- Basic component symbol with label
+- Relationship connector
+- Movement/evolution arrow
+- Barrier/inertia symbol
+- Speculative/future component symbol
+- Pipeline component
+- Market callout
+- Ecosystem callout
+- Symbols for Pioneers, Settlers, and Town Planners
+- Area of interest
+- Map key/legend
+
+
+All stencils can be customized directly in your OmniGraffle document, or by editing the stencil itself for reuse. See "Editing an Existing Stencil" in the [OmniGraffle docs](https://support.omnigroup.com/documentation/omnigraffle/mac/7.3/en/using-and-creating-stencils/).
 
 
 ## Install
@@ -7,8 +25,9 @@ Wardley Mapping stencils for OmniGraffle software. See [Wardley Maps](https://me
 1. Download [Wardley Maps.gstencil](https://github.com/harrylove/wardley-omnigraffle/blob/master/Wardley%20Maps.gstencil?raw=true)
 1. Open the file with OmniGraffle
 1. Select "Move and Edit" to move the file to your Stencils folder
-1. Close the Wardley Maps stencil file
-1. Open a new or existing OmniGraffle file in which to use the stencils
+1. You should see the stencil file open in the document editor
+1. Unless you plan to edit the stencil itself, you can close the Wardley Maps stencil file now
+1. Open a new or existing OmniGraffle file in which to use the stencil
 1. Open the Stencils window/sidebar; "Wardley Maps" should be listed under Miscellaneous.
 
 
