@@ -5,11 +5,13 @@ Includes shapes for:
 - Standard map canvas with value chain and evolution axis
 - Map canvas with alternate evolution axis labels: Concept, Emerging, Convergent, Accepted
 - Basic component symbol with label
-- Relationship connector
-- Movement/evolution arrow
+- Relationship/constraint connection line
+- Point of change/movement/evolution arrow
+- Feedback arrow
+- Past connection line
 - Barrier/inertia symbol
-- Speculative/future component symbol
-- Pipeline component
+- Speculative/future/gaming component
+- Choice/pipeline component
 - Market callout
 - Ecosystem callout
 - Symbols for Pioneers, Settlers, and Town Planners
