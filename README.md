@@ -32,21 +32,6 @@ All stencils can be customized directly in your OmniGraffle document, or by edit
 1. Open a new or existing OmniGraffle file in which to use the stencil
 1. Open the Stencils window/sidebar; "Wardley Maps" should be listed under Miscellaneous.
 
-
-
-[Watch the install video on YouTube](https://www.youtube.com/watch?v=E_wkCjTzfNM)
-
-[![](http://img.youtube.com/vi/E_wkCjTzfNM/0.jpg)](http://www.youtube.com/watch?v=E_wkCjTzfNM "Wardley Map OmniGraffle Stencil Install")
-
-
-## Usage
-
-[Watch the usage video on YouTube](https://www.youtube.com/watch?v=BEvTq7lQ_ug)
-
-[![](http://img.youtube.com/vi/BEvTq7lQ_ug/0.jpg)](http://www.youtube.com/watch?v=BEvTq7lQ_ug "Wardley Map OmniGraffle Stencil Usage")
-
-
-
 ## Example diagram
 
 ![A sample Wardley map showing a value chain for risk management](./Wardley-Map-CFO-risk.png?raw=true "Wardley Map CFO risk management example")
